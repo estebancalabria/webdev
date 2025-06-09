@@ -24,3 +24,11 @@
 * Puerto : Numero que identifica un servicio/programa accessible en una computadora a traves de la red
            - El Puerto 80 se usa tradicionalmente por Servidores Web para el protocol http
            - El Puerto 443 se utiliza hoy en dia para el protocol https que reemplazo al html
+
+* Query / QueryString / QueryParams : Lo que aparece en la url luego de ?.
+                                      Es una lista de variables separada por & (ampersand)
+                                      ?variable1=valor&variable2=valor
+* URL : La direccion e la pagina (ejemplo www.google.com)
+        [Protocolo]://[NombreServidor o IP]:[Puerto]/[Ubicacion]?[QueryString]
+        http://127.0.0.1:8080/api/libros?Pagina=4
+
