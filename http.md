@@ -50,6 +50,26 @@ Ejemplo Respuesta
         ...
    </html>
 ```
+---
+## Headers
+
+### Headers Comunes en Requests
+
+* Content-Type
+* Usert-Agent
+* Cookie
+* Origin
+* Accept
+* Accept-Languange
+* Authorization
+  
+### Headers Comunes en Response
+
+* Content-Type
+* Content-Length
+* Set-Cookie
+
+---
 
 ## Status Code (Codigos de Respuesta)
 
@@ -65,14 +85,14 @@ Ejemplo Respuesta
 * 201 Created
 * 204 No content
 
-## Status code 400
+### Status code 400
 
 * 400 Bad Request      ?pagina=10000 y la pagina 10000 no existe
 * 401 Unauthorized     sin Login
 * 403 Forbiden         sin permiso
 * 404 Not Found
 
-## Status code 500
+### Status code 500
 
 * 500 Internar Server Error
 * 502 Bad gateway   (proxy, firewall)
