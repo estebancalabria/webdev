@@ -50,3 +50,31 @@ Ejemplo Respuesta
         ...
    </html>
 ```
+
+## Status Code (Codigos de Respuesta)
+
+* 1xx   Informativos
+* 2xx   Exito
+* 3xx   Redireccioens (Se necesita una accion adicional)
+* 4xx   Errores del cliente
+* 5xx   Errores del servidor
+
+### Status code 200
+
+* 200 OK
+* 201 Created
+* 204 No content
+
+## Status code 400
+
+* 400 Bad Request      ?pagina=10000 y la pagina 10000 no existe
+* 401 Unauthorized     sin Login
+* 403 Forbiden         sin permiso
+* 404 Not Found
+
+## Status code 500
+
+* 500 Internar Server Error
+* 502 Bad gateway   (proxy, firewall)
+* 503 Service Unavailable
+
