@@ -98,3 +98,14 @@ Ejemplo Respuesta
 * 502 Bad gateway   (proxy, firewall)
 * 503 Service Unavailable
 
+---
+## Cookies
+
+En informacion en el formato querystring que el servidor le pide al cliente que persista localmente y que el cliente replica esa informacion en cada peticion que realiza al servidor. 
+
+* Login (mantener sesion iniciada ) : Lado Jedi
+* Guardar carrito de compras : Ok... puede adar
+* Recordar preferencias de usuario : Lado Jedi
+* Seguimiento y analitica : Lado oscuro
+> Paginas como Google analytics que lo usan todos usa cookies para indentificar el comportamiento de los usuarios en todas las paginas donde esta cargado este servicio. Esto puede comprometer la segudidad de los usuarios ya que recolecta datos del comportamiento del uusario en internet sin su consentimiento
+
