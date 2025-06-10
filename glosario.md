@@ -34,6 +34,13 @@
 
 ---
 
+### J
+
+* **JSON** : Javascript Object Notation. Un formato para codificar informacion que se lleva extremadamente bien con el lenguaje javascript y de ahi que gano su popularidad
+
+
+---
+
 * Mime (Multipurpose Internet Mail Extension): Es como la extension de los archivos en internet 
 
 * Puerto : Numero que identifica un servicio/programa accessible en una computadora a traves de la red
@@ -59,4 +66,10 @@
 * URL : La direccion e la pagina (ejemplo www.google.com)
         [Protocolo]://[NombreServidor o IP]:[Puerto]/[Ubicacion]?[QueryString]
         http://127.0.0.1:8080/api/libros?Pagina=4
+---
 
+* **XML** : Extensive Markup Language. Es un lenguaje de marcado para estructurar almacernar datos con marcas o tags <hola></hola>
+
+--- 
+
+* **Yaml** : Just another Markup Languange. Otro lenguaje de marcado que se dice todavia mas fail.
