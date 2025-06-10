@@ -20,7 +20,7 @@
 
 * **HTML** : Lenguaje de as paginas web junto css y javascipt
 
-* **HTTP** : (Hypertext Transfer Protocolo) es un protocolo para la transferencia de texto
+* HTTP : (Hypertext Transfer Protocolo) es un protocolo para la transferencia de texto
 
 ---
 
