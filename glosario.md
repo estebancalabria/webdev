@@ -30,9 +30,19 @@
            - El Puerto 80 se usa tradicionalmente por Servidores Web para el protocol http
            - El Puerto 443 se utiliza hoy en dia para el protocol https que reemplazo al html
 
+---
+### Q
+
 * **Query / QueryString / QueryParams** : Lo que aparece en la url luego de ?.
                                       Es una lista de variables separada por & (ampersand)
                                       ?variable1=valor&variable2=valor
+---
+### R
+
+* REST : (Como Api Rest) REPresentational State Transfer. Un estilo de arquitectura sobre HTTP para el desarrollo web
+
+---
+### S
 
 * **Servidor Web** : Un programa que implementa el protocolo http para recibir peticiones y poder entregar archivos de texto por la red
 
