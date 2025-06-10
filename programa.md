@@ -10,8 +10,8 @@
     
 
 2) API (Aplication Program Interface)   
-       2.1) Desarrollo de APIS con SpringBoot  
-       2.2) Desarrollo de apis en otras tecnologia : dotNet, Python, Javascript  
+       2.1) Desarrollo de APIS con SpringBoot   
+       2.2) Desarrollo de apis en otras tecnologia : dotNet, Python, Javascript   
 
 3) Testing
      3.1) Pruebas Unitaria
