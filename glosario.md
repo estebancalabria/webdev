@@ -11,8 +11,18 @@
 ## C
 
 * CRUD : CREATE READ UPDATE DELETE  (ABM)
+---
+### D
 
 * DNS (Domain Name Sistem) : Base de datos ditribuida que traduce entre nombres y direcciones de ip.
+
+---
+### E
+
+* Endpoint : Es una URL especifica de API que se puede acceder mediante una solicitud HTTP para enviar o recibir informacion
+
+---
+### F
 
 * Frontend : Lo que se ve de una aplicacion, la interfaz grafica, html, CSS
 ---
