@@ -8,6 +8,7 @@ Crear una API Restful en Spring siguiendo la siguiente convencion de nombre
 * Nombres consistentes en toda la api
 * Utilizar los metodos http para definir la accion
 * Utilizar queryparams para orden, filtros y paginacion
+* Utilizar minusculas para todo asi nos ahorramos problemas si cambiamos de servidor web
 
 Disenio de nuestra API
 
@@ -20,6 +21,6 @@ Endpoints
 * BORRAR CLIENTE                  :     DELETE /api/clientes/{id}
 
 > Para nombres compuestos
-> GET /api/ordenes-de-produccion (notacion kebab)
-> pueeede ser /api/ordenes/produccion si hay otro tipo de ordenes.....
-> pueeede ser /api/compras/clientes  (Organizacion por dominios funcionales DDD)
+> GET /api/ordenes-de-produccion (notacion kebab)   
+> pueeede ser /api/ordenes/produccion si hay otro tipo de ordenes.....    
+> pueeede ser /api/compras/clientes  (Organizacion por dominios funcionales DDD)   
